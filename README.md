@@ -1,2 +1,2 @@
 # VoxelTileGenerators
-Simple world voxel tile generators. Thanks to Emerald Powder.
+Simple world voxel tile generators.
